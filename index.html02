@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personal Information</title>
+</head>
+
+<body>
+
+    <ul>
+       <li>OLORBIDA</li>
+       
+       <li>mary shane
+        <ol>
+           <li>Marigold</li>
+           <li>Julito</li>
+            <ul>
+               <li>T</li>
+            </ul>
+        </li>
+      </ol>     
+    </li>
+    
+    <ul>
+      <li>purple</li>
+      <li>LA LA LOST YOU</li>
+      <li>NIKI</li>
+      <li>programmer</li>
+    </ul>
+
+    <li>cat
+       <ol>
+          <li>CODM</li>
+          <li>Finding Nemo</li>
+       </ol>
+    </li>
+    
+    <li>Catholic</li>
+ </ul>
+
+</body>
+</html> 
+
